@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(BinaryCodeGenMat VERSION 0.1.0 LANGUAGES CXX)
+project(BinaryCodeGenMat VERSION 1.0.0 LANGUAGES CXX)
 
 option(BCGM_BUILD_TESTS "Build unit tests" OFF)
 option(BCGM_BUILD_EXAMPLES "Build examples" OFF)
